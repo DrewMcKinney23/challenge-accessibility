@@ -13,4 +13,5 @@ https://drewmckinney23.github.io/challenge-accessibility/
 ## Contribution
 Made with ❤️ by Drew McKinney
 
-![Screenshot](./images/challenge-screenshot_files/challenge-screenshot.pdf)
+([challenge-screenshot.pdf](https://github.com/DrewMcKinney23/challenge-accessibility/files/8548133/challenge-screenshot.pdf)
+)
